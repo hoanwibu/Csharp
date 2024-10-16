@@ -1,0 +1,14 @@
+C:\Users\akito\Documents\C#\ptb2\bin\Debug\net8.0\ptb2.exe
+C:\Users\akito\Documents\C#\ptb2\bin\Debug\net8.0\ptb2.deps.json
+C:\Users\akito\Documents\C#\ptb2\bin\Debug\net8.0\ptb2.runtimeconfig.json
+C:\Users\akito\Documents\C#\ptb2\bin\Debug\net8.0\ptb2.dll
+C:\Users\akito\Documents\C#\ptb2\bin\Debug\net8.0\ptb2.pdb
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.AssemblyInfoInputs.cache
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.AssemblyInfo.cs
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.csproj.CoreCompileInputs.cache
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.dll
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\refint\ptb2.dll
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.pdb
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ptb2.genruntimeconfig.cache
+C:\Users\akito\Documents\C#\ptb2\obj\Debug\net8.0\ref\ptb2.dll
