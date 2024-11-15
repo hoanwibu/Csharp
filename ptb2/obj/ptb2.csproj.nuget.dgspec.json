@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akito\\Documents\\C#\\ptb2\\ptb2.csproj": {}
+    "C:\\Users\\hoan2\\Documents\\C#\\ptb2\\ptb2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akito\\Documents\\C#\\ptb2\\ptb2.csproj": {
+    "C:\\Users\\hoan2\\Documents\\C#\\ptb2\\ptb2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akito\\Documents\\C#\\ptb2\\ptb2.csproj",
+        "projectUniqueName": "C:\\Users\\hoan2\\Documents\\C#\\ptb2\\ptb2.csproj",
         "projectName": "ptb2",
-        "projectPath": "C:\\Users\\akito\\Documents\\C#\\ptb2\\ptb2.csproj",
-        "packagesPath": "C:\\Users\\akito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akito\\Documents\\C#\\ptb2\\obj\\",
+        "projectPath": "C:\\Users\\hoan2\\Documents\\C#\\ptb2\\ptb2.csproj",
+        "packagesPath": "C:\\Users\\hoan2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoan2\\Documents\\C#\\ptb2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\akito\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hoan2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
